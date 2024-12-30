@@ -10,11 +10,9 @@ Insights and recommendations are provided on the following key areas:
   
 An interactive PowerBI dashboard can be downloaded [here](https://drive.google.com/file/d/1H41UZsJCRlm7q2i9rbmzRE2MWo88MegW/view?usp=sharing).
 
-The Python code utilized to inspect and perform quality checks can be found [here]().
+The Python code utilized to clean, organize and prepare data for the dashboard can be found [here](https://colab.research.google.com/drive/1qf1ecKUfVEUXr1r9DOKSAVbH8BWB277B?usp=sharing).
 
-The Python code utilized to clean, organize and prepare data for the dashboard can be found [here]().
-
-Targeted Python code regarding various business questions can be found [here]().
+The original Kaggle dataset for perfoming this analysis can be found [here](https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset/data?select=new_retail_data.csv).
 
 # Data Structure & Initial Checks
 
