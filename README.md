@@ -38,11 +38,11 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ### Customer Base Trends Analysis
 
-Revenue by Customer Segment: Mid-income customers make up 51% of the customer base and account for 54% of the $402M revenue, highlighting their significant contribution.
+- **Revenue by Customer Segment**: Mid-income customers make up 51% of the customer base and account for 54% of the $402M revenue, highlighting their significant contribution.
 
-Regional Highlights: The UK leads with $131M from 25.4K customers, followed by the USA with $115.7M from 26.1K customers. Together, these two regions contribute 61% of total revenue.
+- **Regional Highlights**: The UK leads with $131M from 25.4K customers, followed by the USA with $115.7M from 26.1K customers. Together, these two regions contribute 61% of total revenue.
 
-Gender and Age Spending: Males, primarily aged 18–25, spent $249M (62% of revenue), making them the largest spending group, while females in the same age range contributed $153M (38% of revenue).
+- **Gender and Age Spending**: Males, primarily aged 18–25, spent $249M (62% of revenue), making them the largest spending group, while females in the same age range contributed $153M (38% of revenue).
 
 The largest and most valuable customer group is mid-income males aged 18–25, especially in regions like the UK and the USA. These findings highlight the need to tailor marketing and engagement strategies toward this demographic to further capitalize on their spending potential.
 
@@ -54,18 +54,18 @@ The largest and most valuable customer group is mid-income males aged 18–25, e
   <img src="https://github.com/QuinnNgo97/githubtest/blob/efa90b20fa7f95d938fb43849275f842676bc13a/Dashboard2.png">
 </div>
 
+
 ### Customer Retention
 
-Customer Retention: After the first month, only 23–25% of customers remained with the company in the second month. However, retention stabilized from months 2–11, indicating that customers who stayed beyond the first month were likely to remain loyal for at least a year.
+- **Customer Retention**: After the first month, only 23–25% of customers remained with the company in the second month. However, retention stabilized from months 2–11, indicating that customers who stayed beyond the first month were likely to remain loyal for at least a year.
 
-Customer Acquisition: New customer acquisition has steadily declined since launch, dropping from 21,6K new customers in the first month to just over 1K per month in the most recent month.
+- **Customer Acquisition**: New customer acquisition has steadily declined since launch, dropping from 21,6K new customers in the first month to just over 1K per month in the most recent month.
 
-Key Insights: While retention beyond the first month signals strong brand loyalty, the sharp decline in new customer acquisition highlights the need for strategies to attract new customers and sustain growth.
+- **Key Insights**: While retention beyond the first month signals strong brand loyalty, the sharp decline in new customer acquisition highlights the need for strategies to attract new customers and sustain growth.
 
 <div align="center">
   <img src="https://github.com/QuinnNgo97/githubtest/blob/efa90b20fa7f95d938fb43849275f842676bc13a/Dashboard3.png">
 </div>
-
 
 
 ### Recommendations
