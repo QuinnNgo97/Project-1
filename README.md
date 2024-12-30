@@ -10,7 +10,7 @@ Insights and recommendations are provided on the following key areas:
   
 An interactive PowerBI dashboard can be downloaded [here](https://drive.google.com/file/d/1aiJ6fb9Y8FE0w5kx-iPBCM5b9X8NAqrR/view?usp=sharing).
 
-The Python code utilized to clean, organize and prepare data for the dashboard can be found [here](https://colab.research.google.com/drive/1qf1ecKUfVEUXr1r9DOKSAVbH8BWB277B?usp=sharing).
+The Python code utilized to clean, organize and prepare data for the dashboard can be found [here](https://github.com/QuinnNgo97/Project-Ecommerce-Marketing-Target/blob/20d15cdf00995c340c2cfb8bdd1df019c2380bd6/ecommerce_analysis.py).
 
 The original Kaggle dataset for perfoming this analysis can be found [here](https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset/data?select=new_retail_data.csv).
 
