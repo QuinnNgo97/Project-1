@@ -8,7 +8,7 @@ Insights and recommendations are provided on the following key areas:
 - **Customer Retention**: An evaluation of customer churn rate.
 - **Marketing Budget Recomendation**: An assesment of the expected Revenue per Conversion and recomended Cost per Conversion.
   
-An interactive PowerBI dashboard can be downloaded [here](https://drive.google.com/file/d/1H41UZsJCRlm7q2i9rbmzRE2MWo88MegW/view?usp=sharing).
+An interactive PowerBI dashboard can be downloaded [here](https://drive.google.com/file/d/1aiJ6fb9Y8FE0w5kx-iPBCM5b9X8NAqrR/view?usp=sharing).
 
 The Python code utilized to clean, organize and prepare data for the dashboard can be found [here](https://colab.research.google.com/drive/1qf1ecKUfVEUXr1r9DOKSAVbH8BWB277B?usp=sharing).
 
@@ -30,7 +30,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 Over the past year since the company’s launch, the revenue and order volume has remained stable. These trends highlight a steady performance in both sales and revenue generation, suggesting a solid customer base and reliable demand for our products and services. However, the lack of significant growth within these metrics may indicate potential areas for strategic improvement to drive future expansion.
 
-Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The more interactive dashboard can be downloaded [here](https://drive.google.com/file/d/1H41UZsJCRlm7q2i9rbmzRE2MWo88MegW/view?usp=sharing).
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The more interactive dashboard can be downloaded [here](https://drive.google.com/file/d/1aiJ6fb9Y8FE0w5kx-iPBCM5b9X8NAqrR/view?usp=sharing).
 
 <div align="center">
   <img src="https://github.com/QuinnNgo97/githubtest/blob/5cfa2145594bde1f9a53296520e30cb40058b9db/Dashboardoverview.png">
