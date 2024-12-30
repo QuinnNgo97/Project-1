@@ -22,7 +22,7 @@ Tetco's database structure as seen below consist of three tables: dim_products a
   <img src="https://github.com/QuinnNgo97/githubtest/blob/2f63a850e6520fa73cb4ac89bfac8c49c796ad77/relations.jpg">
 </div>
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The Python code utilized to inspect and perform quality checks can be found [here]().
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The Python code utilized to inspect and perform quality checks can be found [here](https://github.com/QuinnNgo97/Project-Ecommerce-Marketing-Target/blob/20d15cdf00995c340c2cfb8bdd1df019c2380bd6/ecommerce_analysis.py).
 
 # Excecutive summary
 
