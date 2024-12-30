@@ -10,7 +10,7 @@ Original file is located at
 import pandas as pd
 from google.colab import drive
 drive.mount('/content/drive')
-fact_orders_raw=pd.read_csv('/content/drive/MyDrive/Ngo Quynh Anh/cleaned_retail_data_293k.csv')
+fact_orders_raw=pd.read_csv('/content/drive/MyDrive/cleaned_retail_data_293k.csv')
 fact_orders_raw['Date']=pd.to_datetime(fact_orders_raw['Date'])
 
 fact_orders_raw.info()
@@ -134,15 +134,21 @@ cust_score['Total_Score']=cust_score['R_score']+cust_score['F_score']+cust_score
 cust_score['Total_Score']=cust_score['Total_Score'].astype(int)
 cust_score.info()
 
-rfm_ref=pd.read_csv('/content/drive/MyDrive/Nguyễn Thị Minh Thu/rfm_ref.csv')
+rfm_ref=pd.read_csv('/content/drive/MyDrive/RankRFM.csv')
+
+# Split text into a list
+rfm_ref['Scores'] = rfm_ref['Scores'].str.split(',')
+# Convert list into multiple rows
+rfm_ref = rfm_ref.explode('Scores')
+rfm_ref['Scores']=rfm_ref['Scores'].astype(int)
 
 dim_cust_type_rfm=pd.merge(
     left=cust_score,
     right=rfm_ref,
     how='left',
     left_on=cust_score['Total_Score'],
-    right_on=rfm_ref['Code'])
-dim_cust_type_rfm.drop(columns=['Code','key_0'],inplace=True)
+    right_on=rfm_ref['Scores'])
+dim_cust_type_rfm.drop(columns=['Scores','key_0'],inplace=True)
 dim_cust_type_rfm
 
 cust_type=dim_cust_type_rfm[['Customer_ID','Segment']]
