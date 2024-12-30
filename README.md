@@ -1,7 +1,7 @@
 # Project Background
 Tetco company, established in 2023, is a global e-commerce company that sells consumer goods from popular brands and help distribute them worldwide via its website.
 
-The company is planning to reinvest some of its revenue to run a Targeted Advertising Campaign. Currently it has significant amounts of its sales since launch, service feedback and loyalty programs. This project thoroughly analyzes and synthesize this data in order to uncover critical insights that will improve Tetco's commercial success.
+The company is planning to reinvest some of its revenue to run a Targeted Advertising Campaign. Currently it has significant amounts of data of its sales since launch, service feedback and loyalty programs. This project thoroughly analyzes and synthesize this data in order to uncover critical insights that will improve Tetco's commercial success.
 
 Insights and recommendations are provided on the following key areas:
 - **Customer Base Trends Analysis**: Evaluation of historical sales data to uncover the customer group with the most potential to like the brand and use its services, focusing on Revenue, Order Volume, and Average Order Value (AOV).
