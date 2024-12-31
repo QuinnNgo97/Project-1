@@ -79,3 +79,6 @@ Based on the uncovered insights, the following recommendations have been provide
 - **Increasing New Customer Acquisition**: Implement a referral program to incentivize existing customers to bring in new customers. This approach is particularly effective, as referred customers are likely to belong to similar demographic groups, ensuring alignment with the company’s target audience.
 
 - **Marketing Budget Allocation**: Considering an average annual spend of **$4,650 per customer** and a **25% retention rate**, the marketing budget should allow for a cost per conversion of approximately $290 (which assumes an ideal return on investment (ROI) of 5:1). Matching this target allocation ensures effective utilization of resources while maintaining profitability.
+
+
+# Caveats and assumptions
